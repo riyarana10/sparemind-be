@@ -70,3 +70,5 @@ static/
 # Optional: Frontend build output in backend if used
 # -------------------------
 backend/app/static/
+.github/workflows/
+.github/
